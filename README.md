@@ -3,14 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruchika%20Darekar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20%7C%20Backend%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+St.+Mira's+College+Pune;Data+Analytics+%7C+Backend+Dev+%7C+SQL+Nerd;IBM+SkillsBuild+Intern+%E2%9C%85;Building+things+that+solve+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer Science Fresher+%40;Data+Analytics+%7C+Backend+Dev+%7C+SQL+Nerd;Building+things+that+solve+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darekarruchika@gmail.com)
 
 </div>
 
@@ -66,43 +65,17 @@ I'm a detail-oriented CS student with a passion for **turning raw data into acti
 
 ---
 
-## 💼 Experience
-
-### 🔵 Data Analytics Intern — IBM SkillsBuild *(Jun 2024 – Aug 2024)*
-- Analyzed large **unemployment datasets** (Python: Pandas, NumPy, Matplotlib + Excel) to identify trends aligned with **SDG 8**
-- Performed end-to-end **data quality checks**: cleaning, validation, outlier detection, statistical analysis
-- Built **visualizations & dashboards** to communicate insights to stakeholders
-- Delivered structured analysis reports collaboratively within deadlines
-
-### 🔴 Cyber Security Intern — Quasar CyberTech Pvt. Ltd. *(May 2025 – Jun 2025)*
-- Authored **technical mitigation guides** and cybersecurity documentation
-- Performed **OSINT investigations** using Kali Linux tools including Google Dorking
-- Gained expertise in **data access controls**, web vulnerabilities, and compliance-oriented security practices
-
----
-
 ## 🚀 Projects
 
-### 💸 [Expense Tracker](https://github.com/RuchikaDarekar)
+### [Expense Tracker](https://github.com/RuchikaDarekar)
 > **Java • Spring Boot • MySQL • Bootstrap**
 
 Full-stack web app for managing financial records with CRUD operations and RESTful APIs. Designed relational database schemas and created responsive dashboards for financial data visualization.
 
-### 🧠 [BrainByte – Learning Management System](https://github.com/RuchikaDarekar)
+### [BrainByte – Learning Management System](https://github.com/RuchikaDarekar)
 > **Python (Flask) • SQLite • Bootstrap**
 
 Secure, role-based web application managing structured data for students and administrators. Built content and user management with validation logic — demonstrating data quality and system configuration skills.
-
----
-
-## 🏅 Certifications & Achievements
-
-| 🏆 Achievement | Details |
-|---|---|
-| 🥈 Academic Rank | Ranked **2nd in both 1st and 2nd Year** of B.Sc. CS |
-| 🟡 LeetCode SQL Badge | Solved **50+ SQL problems** — hands-on query proficiency |
-| 🤖 Agentic AI | IBM SkillsBuild |
-| ☁️ Azure for Data Engineering | Microsoft — Coursera |
 
 ---
 
@@ -110,8 +83,8 @@ Secure, role-based web application managing structured data for students and adm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RuchikaDarekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchikaDarekar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ruchikaa-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaa-6&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -121,7 +94,7 @@ Secure, role-based web application managing structured data for students and adm
 
 > *"I'm always open to interesting data problems, collaboration opportunities, and learning something new."*
 
-📧 **darekarruchika@gmail.com** | 📍 Pune, Maharashtra | 🔗 [LinkedIn](#) | 💻 [LeetCode](#)
+🔗 [LinkedIn](#) | 💻 [LeetCode](#)
 
 ---
 
