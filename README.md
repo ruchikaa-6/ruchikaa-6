@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darekarruchika@gmail.com)
 
 </div>
 
@@ -20,8 +21,8 @@
 ```python
 ruchika = {
     "location"   : "Pune, Maharashtra 🇮🇳",
-    "education"  : "B.Sc. Computer Science @ St. Mira's College ",
-    "currently"  : "Fresher | Open to opportunities",
+    "education"  : "B.Sc. Computer Science @ St. Mira's College (GPA: 9.727)",
+    "currently"  : "Final year student | Open to opportunities",
     "strengths"  : ["Data Analysis", "SQL Databases", "Backend Development"],
     "fun_fact"   : "Ranked 2nd in both 1st and 2nd year of CS 🏆"
 }
@@ -63,6 +64,22 @@ I'm a detail-oriented CS student with a passion for **turning raw data into acti
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
+## 💼 Experience
+
+### 🔵 Data Analytics Intern — IBM SkillsBuild *(Jun 2024 – Aug 2024)*
+- Analyzed large **unemployment datasets** (Python: Pandas, NumPy, Matplotlib + Excel) to identify trends aligned with **SDG 8**
+- Performed end-to-end **data quality checks**: cleaning, validation, outlier detection, statistical analysis
+- Built **visualizations & dashboards** to communicate insights to stakeholders
+- Delivered structured analysis reports collaboratively within deadlines
+
+### 🔴 Cyber Security Intern — Quasar CyberTech Pvt. Ltd. *(May 2025 – Jun 2025)*
+- Authored **technical mitigation guides** and cybersecurity documentation
+- Performed **OSINT investigations** using Kali Linux tools including Google Dorking
+- Gained expertise in **data access controls**, web vulnerabilities, and compliance-oriented security practices
+
+---
 
 ## 🚀 Projects
 
@@ -75,6 +92,17 @@ Full-stack web app for managing financial records with CRUD operations and RESTf
 > **Python (Flask) • SQLite • Bootstrap**
 
 Secure, role-based web application managing structured data for students and administrators. Built content and user management with validation logic — demonstrating data quality and system configuration skills.
+
+---
+
+## 🏅 Certifications & Achievements
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🥈 Academic Rank | Ranked **2nd in both 1st and 2nd Year** of B.Sc. CS |
+| 🟡 LeetCode SQL Badge | Solved **50+ SQL problems** — hands-on query proficiency |
+| 🤖 Agentic AI | IBM SkillsBuild |
+| ☁️ Azure for Data Engineering | Microsoft — Coursera |
 
 ---
 
@@ -92,7 +120,8 @@ Secure, role-based web application managing structured data for students and adm
 ## 📫 Let's Connect!
 
 > *"I'm always open to interesting data problems, collaboration opportunities, and learning something new."*
- 🔗 [LinkedIn](#) | 💻 [LeetCode](#)
+
+📧 **darekarruchika@gmail.com** | 📍 Pune, Maharashtra | 🔗 [LinkedIn](#) | 💻 [LeetCode](#)
 
 ---
 
